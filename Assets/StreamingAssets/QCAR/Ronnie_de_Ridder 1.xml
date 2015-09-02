@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Fram3" size="100.000000 75.000000" />
+    <ImageTarget name="Fram4" size="100.000000 75.000000" />
+    <ImageTarget name="Fram1" size="100.000000 75.000000" />
+    <ImageTarget name="Fram2" size="100.000000 75.000000" />
+    <ImageTarget name="qwe" size="524.000000 701.000000" />
+    <ImageTarget name="RdR" size="4096.000000 1856.853394" />
+    <ImageTarget name="AR" size="100.000000 109.779953" />
+    <ImageTarget name="ToxTV_Logo" size="319.000000 55.000000" />
+  </Tracking>
+</QCARConfig>
